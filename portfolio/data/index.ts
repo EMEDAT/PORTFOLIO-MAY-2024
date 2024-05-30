@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Tech enthusiast developing the future with AI.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
+    title: "Currently building an intelligent PDF chatbot using Python",
+    description: "Intelligent PDF",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -107,95 +107,87 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Emedat's vision spearheaded our revolutionary AI clothing platform.  He designed a user-friendly interface where customers can design and see their creations come to life with real-time feedback.  His dedication and innovative approach make this platform a game-changer for online clothes shopping.  We are confident it will transform the way our customers shop!",
+    name: "Edikan Titus",
+    title: "CEO Style Finery",
+    img: "/Edidat.jpg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "As Chowside's CEO, I was blown away by the e-commerce web app Emedat built for us. His expertise in Next.js and other cutting-edge tools streamlined our sales funnel and boosted user engagement.  The headless CMS puts content control at our fingertips, a game-changer for any growing business.  This fantastic freelancer delivered a project that exceeded expectations, and I highly recommend him!",
+    name: "Ndifreke David",
+    title: "CEO of Chowside",
+    img: "/Ndidat.jpg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I have to say, Emedat absolutely smashed it with the architect-client app! NEXUSFORGE is beyond happy. It's incredibly user-friendly and has already made a huge difference in how we connect our clients with the perfect architect. Working with him was a breeze, and the results were simply amazing. Thank you!",
+    name: "Emedat Titus",
+    title: "Director of NexusForge",
+    img: "/profile.jpg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Emedat was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Emedat's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Emedat is the ideal partner.",
+    name: "Etimbuk Inyang",
+    title: "CEO of TWMN Worldwide",
+    img: "/Etimbuk.jpg",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "Chowside",
+    img: "/CHOWSIDE_ROUND.png",
+    nameImg: "/CHOWSIDE_ROUND.png",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "StyleFinery",
+    img: "/FINERY.png",
+    nameImg: "/FINERY.png",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "NexusForge",
+    img: "/NEXUS.png",
+    nameImg: "/NEXUS.png",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "TWMN",
+    img: "/TWMN.png",
+    nameImg: "/TWMN.png",
   },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Is AI Your Friend or Foe?",
+    desc: "AI is a hot topic, but do you understand its true potential? Explore the benefits and challenges of AI, and learn how this technology can be used for good.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "AI in Your Pocket",
+    desc: "From filtering photos to recommending music, AI is woven into our daily lives. Discover how this powerful technology is already shaping your world.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Beyond Science Fiction",
+    desc: "Forget robots taking over! Let's explore the incredible potential of AI to solve real-world problems and improve our lives in surprising ways.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "AI, Your New Co-Pilot",
+    desc: "Feeling overwhelmed by tasks? AI can be your secret weapon for boosting productivity. Explore how AI tools can automate tasks and streamline your workflow.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +197,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/EMEDAT",
   },
   {
     id: 2,
     img: "/twit.svg",
+    url: "https://x.com/TitusEmedat",
   },
   {
     id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/emediong-titus-ba3979214",
   },
 ];
