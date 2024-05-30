@@ -114,7 +114,7 @@ export const testimonials = [
   },
   {
     quote:
-      "As Chowside's CEO, I was blown away by the e-commerce web app Emedat built for us. His expertise in Next.js and other cutting-edge tools streamlined our sales funnel and boosted user engagement.  The headless CMS puts content control at our fingertips, a game-changer for any growing business.  This fantastic freelancer delivered a project that exceeded expectations, and I highly recommend him!",
+      "I was blown away by the e-commerce web app Emedat built for us. His expertise in Next.js and other cutting-edge tools streamlined our sales funnel and boosted user engagement.  The headless CMS puts content control at our fingertips, a game-changer for any growing business.  This fantastic freelancer delivered a project that exceeded expectations, and I highly recommend him!",
     name: "Ndifreke David",
     title: "CEO of Chowside",
     img: "/Ndidat.jpg",
@@ -122,9 +122,9 @@ export const testimonials = [
   {
     quote:
       "I have to say, Emedat absolutely smashed it with the architect-client app! NEXUSFORGE is beyond happy. It's incredibly user-friendly and has already made a huge difference in how we connect our clients with the perfect architect. Working with him was a breeze, and the results were simply amazing. Thank you!",
-    name: "Emedat Titus",
+    name: "Prof. David Aniefiok",
     title: "Director of NexusForge",
-    img: "/profile.jpg",
+    img: "/Daddy.jpg",
   },
   {
     quote:
